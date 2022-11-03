@@ -1,1 +1,6 @@
-# CS648-Assignment9
+# Assignment9 - Priyanka Birajdar
+
+# Assignment Overview: Introduction to JQuery
+
+* jQuery Selectors and Commands
+* jQuery Events
